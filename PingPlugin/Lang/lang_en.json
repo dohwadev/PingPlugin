@@ -1,0 +1,146 @@
+﻿{
+  "PingTrackerKindAutodetect": {
+    "message": "Autodetect (Default)",
+    "description": "PingPlugin.Kind"
+  },
+  "PingTrackerKindCOM": {
+    "message": "COM",
+    "description": "PingPlugin.Kind"
+  },
+  "PingTrackerKindWin32API": {
+    "message": "Win32 API",
+    "description": "PingPlugin.Kind"
+  },
+  "PingTrackerKindPackets": {
+    "message": "Game packets",
+    "description": "PingPlugin.Kind"
+  },
+  "ClickThrough": {
+    "message": "Click through plugin windows",
+    "description": "PingPlugin.Configuration"
+  },
+  "Defaults": {
+    "message": "Defaults",
+    "description": "PingPlugin.Configuration"
+  },
+  "HideErrors": {
+    "message": "Hide errors",
+    "description": "PingPlugin.Configuration"
+  },
+  "HideAveragePing": {
+    "message": "Hide average ping",
+    "description": "PingPlugin.Configuration"
+  },
+  "HideOverlaysDuringCutscenes": {
+    "message": "Hide overlays with HUD",
+    "description": "PingPlugin.Configuration"
+  },
+  "Language": {
+    "message": "Language",
+    "description": "PingPlugin.Configuration"
+  },
+  "LockPluginWindows": {
+    "message": "Lock plugin windows",
+    "description": "PingPlugin.Configuration"
+  },
+  "PingTracker": {
+    "message": "Ping Tracker",
+    "description": "PingPlugin.Configuration"
+  },
+  "DisplayMode": {
+    "message": "Display mode",
+    "description": "PingPlugin.Configuration"
+  },
+  "ServerBarDisplay": {
+    "message": "Server bar",
+    "description": "PingPlugin.Configuration"
+  },
+  "DefaultDisplay": {
+    "message": "Default",
+    "description": "PingPlugin.Configuration"
+  },
+  "MicroDisplay": {
+    "message": "Micro display",
+    "description": "PingPlugin.Configuration"
+  },
+  "MicroShowAveragePing": {
+    "message": "Show average ping",
+    "description": "PingPlugin.Configuration"
+  },
+  "MicroShowLastPing": {
+    "message": "Show last ping",
+    "description": "PingPlugin.Configuration"
+  },
+  "MinimalDisplay": {
+    "message": "Minimal display",
+    "description": "PingPlugin.Configuration"
+  },
+  "FontScale": {
+    "message": "Font scale",
+    "description": "PingPlugin.Configuration"
+  },
+  "MonitorColor": {
+    "message": "Monitor Color",
+    "description": "PingPlugin.Configuration"
+  },
+  "MonitorErrorColor": {
+    "message": "Monitor Error Color",
+    "description": "PingPlugin.Configuration"
+  },
+  "MonitorOpacity": {
+    "message": "Monitor Opacity",
+    "description": "PingPlugin.Configuration"
+  },
+  "RecordedPings": {
+    "message": "Recorded Pings",
+    "description": "PingPlugin.Configuration"
+  },
+  "ResetWindowPositions": {
+    "message": "Reset Window Positions",
+    "description": "PingPlugin.Configuration"
+  },
+  "ConfigurationWindowTitle": {
+    "message": "PingPlugin Configuration",
+    "description": "PingPlugin.WindowTitles"
+  },
+  "PingGraphTitle": {
+    "message": "Ping Graph",
+    "description": "PingPlugin.WindowTitles"
+  },
+  "UIAverage": {
+    "message": "Average",
+    "description": "PingPlugin.UIText"
+  },
+  "UIError": {
+    "message": "Error: {0}",
+    "description": "PingPlugin.UIText"
+  },
+  "UIGraphTitle": {
+    "message": "Network Latency (ms) vs Pings",
+    "description": "PingPlugin.UIText"
+  },
+  "UIMillisecondAbbr": {
+    "message": "ms",
+    "description": "PingPlugin.UIText"
+  },
+  "UIMinimalDisplay": {
+    "message": "Ping: {0}ms / Average: {1}ms",
+    "description": "PingPlugin.UIText"
+  },
+  "UIMinimalDisplayNoAverage": {
+    "message": "Ping: {0}ms",
+    "description": "PingPlugin.UIText"
+  },
+  "UINoData": {
+    "message": "No data to display at this time.",
+    "description": "PingPlugin.UIText"
+  },
+  "UIRegularDisplay": {
+    "message": "Connected to: {0}\nPing: {1}ms\nAverage ping: {2}ms",
+    "description": "PingPlugin.UIText"
+  },
+  "UIRegularDisplayNoAverage": {
+    "message": "Connected to: {0}\nPing: {1}ms",
+    "description": "PingPlugin.UIText"
+  }
+}
